@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">UserList</string>
+    <string name="name_label">NAME:</string>
+    <string name="surname_label">SURNAME:</string>
+    <string name="age_label">AGE:</string>
+    <string name="some_text">Gramacki</string>
+    <string name="birth_date">BIRTH DATE:</string>
+    <string name="date_format">"DD.MM.YYYY"</string>
+    <string name="add_button">ADD</string>
+    <string name="wrong_data">WRONG DATA FORMAT</string>
 </resources>
